@@ -50,7 +50,7 @@
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
-  line-height: 16px; /* 123.077% */
+  line-height: 16px;
   text-decoration-line: underline;
   opacity: 0.8;
 }
@@ -107,10 +107,7 @@
   border-radius: 4px;
   background: rgba(255, 255, 255, 0.1);
   padding: 6px;
-    height: 36px;
-}
-
-.walletImg>img{
+  height: 36px;
 }
 
 .walletInfo {
